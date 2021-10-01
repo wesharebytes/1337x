@@ -21,7 +21,7 @@ There are several 1337x mirror websites that can be accessed when you cannot acc
 
 
 ## Frequently asked questions - FAQs
-Questions about the 1337x torrent site? In this section we have answered some of the most frequently asked questions:
+Questions about the [1337x torrent site](https://1337x-torrent.readthedocs.io/en/latest/)? In this section we have answered some of the most frequently asked questions:
 
 **How can I download files from 1337x?**
 
