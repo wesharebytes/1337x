@@ -1,5 +1,5 @@
 
-# 1337x | 1337x.to Torrent Tracker Search Engine 2021
+# 1337x | 1337x.to Torrent Tracker Search Engine 2023
 
 1337x was launched to fill an apparent void where there was a lack of quality conscience and free torrent sites. We strive to maintain a community atmosphere with an attentive staff who are quick to review all uploaded content and downloaders.
 
