@@ -1,5 +1,5 @@
 
-# 1337x | 1337x.to Torrent Tracker Search Engine 2024
+# 1337x | 1337x.to Torrent Tracker Search Engine 2025
 
 1337x was launched to fill an apparent void where there was a lack of quality conscience and free torrent sites. We strive to maintain a community atmosphere with an attentive staff who are quick to review all uploaded content and downloaders.
 
@@ -15,8 +15,12 @@ There are several 1337x mirror websites that can be accessed when you cannot acc
 |----------------|:----------------:|
 | https://1337x.to | Official |
 | https://1337x.proxyninja.org | Mirror |
+| https://1337x.proxyninja.net | Mirror |
 | https://1337x.unblockninja.com | Mirror |
-| https://1337x.abcproxy.org | Mirror |
+| https://1337x.torrentbay.st | Mirror |
+| https://1337x.torrentsbay.org | Mirror |
+| https://1337x.piratic.org | Mirror |
+
 
 
 
